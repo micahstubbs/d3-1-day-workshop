@@ -1,6 +1,8 @@
-# Topics
+# d3.js for coders and analysts: intro
 
 ![](schedule.png)
+
+## Schedule
 
 ## Session 1 (2h)
 + Intro
